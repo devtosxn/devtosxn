@@ -1,7 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tosin Ayodele!
 
-<!--
-**devtosxn/devtosxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 A Software Engineer specializing in the building of web applications. Intermediate experience with the technologies listed in the toolbox below.
 
@@ -26,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
