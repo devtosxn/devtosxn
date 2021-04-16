@@ -7,11 +7,13 @@ I write tech content mostly about optimizing Python and its frameworks or librar
 
 ---
 
-🧰 Toolbox
+🧰  Toolbox
 
- <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> 
+ <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="Django Logo" width="50" height="50"/>
 ---
 
 
