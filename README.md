@@ -1,7 +1,8 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ### I am Tosin Ayodele.
 
-I love to research and write tech content mostly about optimizing Python & Javascript as well as their frameworks & libraries. 
+I love to research, learn and solve technical problems with various web technologies, tools, libraries and frameworks as respective project solutions require
+
 As a Software Engineer & Designer, I have intermediate experience in the technologies listed below.
 
 ---
